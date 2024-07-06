@@ -4,4 +4,5 @@ We've located the adversary's location and must now secure access to their Optic
 
 ## STEPS
 Download zip file. Extract it and write the password "hackthebox" . Open the extracted file in terminal.
-[!image][
+[!image]![ab](https://github.com/nehabhatt1503/hackthebox/assets/101342579/244a1e80-7695-42d0-a2ee-497f215fb7c3)
+
