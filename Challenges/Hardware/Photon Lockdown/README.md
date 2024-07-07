@@ -15,7 +15,7 @@ Download zip file. Extract it and write the password "hackthebox" . Open the ext
 ### FLAG:
 ### ![ab](https://github.com/nehabhatt1503/hackthebox/assets/101342579/ed35f1e4-72b3-4e77-89af-1663adbf6284)
 ### ![ab](https://github.com/nehabhatt1503/hackthebox/assets/101342579/81c750f8-1fd3-42eb-a136-70e91a83da06)
-                                                  OR
+OR
 ### ![ab](https://github.com/nehabhatt1503/hackthebox/assets/101342579/57600700-f28f-4880-89d8-3b9156da91e3) 
 - Grep, short for “global regular expression print”, is a command used to find or search a regular expression or a string in a text file.
 
