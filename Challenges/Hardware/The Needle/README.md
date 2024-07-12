@@ -12,3 +12,6 @@ As a part of our SDLC process, we've got our firmware ready for security testing
 ### ![ab](https://github.com/user-attachments/assets/0b00fa2d-6853-49d0-a0e1-95a90485bd56) 
 ### ![ab](https://github.com/user-attachments/assets/722f3ca2-547e-4f4d-9231-711e7d2661d6)
 ### ![ab](https://github.com/user-attachments/assets/a2e16294-7dfc-49fc-a436-d2c365e7acb0)
+### ![ab](https://github.com/user-attachments/assets/12dea390-540d-42a6-ba96-ada7d4f015e1)
+
+### ![ab](https://github.com/user-attachments/assets/2ea7c68f-1aed-4a64-b6ae-13bd19888601)
