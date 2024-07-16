@@ -2,7 +2,7 @@
 ## Challenge Description: 
 As a part of our SDLC process, we've got our firmware ready for security testing. Can you help us by performing a security assessment?
 
-##STEPS
+### STEPS
 ### ![ab](https://github.com/user-attachments/assets/bc0906ae-1946-4745-a6eb-b4a0e448f572) - Binwalk is a tool for searching a given binary image for embedded files and executable code.
 ### ![ab](https://github.com/user-attachments/assets/2ea7c68f-1aed-4a64-b6ae-13bd19888601) -The grep command displays the name of the file containing the matched line if you specify more than one name in the File parameter. Characters with special meaning to the shell ($, *, [, |, ^, (, ), \ ) must be in quotation marks when they appear in the Pattern parameter. The '-e' with grep command specifies one or more search patterns. 
 
