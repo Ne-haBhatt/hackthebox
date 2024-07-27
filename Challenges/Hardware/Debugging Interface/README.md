@@ -15,8 +15,8 @@ Download zip file. Extract it and write the password "hackthebox" . Open the ext
 ### ![ab](https://github.com/user-attachments/assets/706911aa-6683-4b5d-bf3a-cd32e76439ea)
 ### ![ab](https://github.com/user-attachments/assets/864ed12b-62b8-4e84-a3d2-ef43cac6f481) - Click on Open and select the required file. You can see the data blocks.
 ### ![ab](https://github.com/user-attachments/assets/115f3508-72a4-48e9-bdb0-6d7c74d2b6d3) - zoom the blocks in microseconds.
-### ![ab](https://github.com/user-attachments/assets/8908025c-e297-4e1a-818f-45e91fb74354) 
-### ![ab](https://github.com/user-attachments/assets/5c0d4f53-8844-44c6-bcd4-31c1f7941bc9) - You can see the Async serial option on the right side. You can make the changes accordingly.
-### ![ab](https://github.com/user-attachments/assets/8839a0c4-1e28-44ba-8470-484d9d64cf8f) - Again Goto Async Serial options. Click on 'Ascii'. We didn't get the flag.  
-### ![ab](https://github.com/user-attachments/assets/dea6dd84-e931-40c0-89a6-f8184097e685) - Again Edit 'Async Serial'.
-### ![ab](https://github.com/user-attachments/assets/cd743c2a-1faa-4bec-aafc-10f3b62caffa) - After making the changes you got the flag.
+### ![ab](https://github.com/user-attachments/assets/8908025c-e297-4e1a-818f-45e91fb74354) - You can see the Async serial option on the right side. You can make the changes accordingly.
+### ![ab](https://github.com/user-attachments/assets/5c0d4f53-8844-44c6-bcd4-31c1f7941bc9) - Again Goto Async Serial options. Click on 'Ascii'. We didn't get the flag.  
+### ![ab](https://github.com/user-attachments/assets/8839a0c4-1e28-44ba-8470-484d9d64cf8f) - Again Edit 'Async Serial'.
+### ![ab](https://github.com/user-attachments/assets/dea6dd84-e931-40c0-89a6-f8184097e685) - After making the changes you will get the flag.
+### ![ab](https://github.com/user-attachments/assets/cd743c2a-1faa-4bec-aafc-10f3b62caffa) 
