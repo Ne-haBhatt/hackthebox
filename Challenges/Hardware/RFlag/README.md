@@ -9,4 +9,4 @@ Download zip file. Extract it and write the password "hackthebox" . Open the ext
 ### ![image](https://github.com/user-attachments/assets/da9c1ecf-c207-4c90-a94d-0ffb56cbd3c2) - Download the rtl_433.
 ### ![image](https://github.com/user-attachments/assets/b65054b5-406d-4974-99c7-9275d260592a) - It is a generic data receiver to decode radio transmissions from devices on the ISM bands
 ### ![image](https://github.com/user-attachments/assets/6cd50e41-7662-482c-b0a8-d7de652dd1b8) - Here you can see the green highlighted code. To decode it, open Cyberchef in browser.
-### ![image](https://github.com/user-attachments/assets/7dc5457b-16a7-4555-852f-3c45f6aa3465) - Cyberchef is used to decode encoded data. 
+### ![image](https://github.com/user-attachments/assets/7dc5457b-16a7-4555-852f-3c45f6aa3465) - Cyberchef is used to decode encoded data. You can get the flag in the output section.
