@@ -1,3 +1,7 @@
+# Man In The Middle
+## Challenge Description:
+Help! One of our red teamers has captured something between a user and their computer, but we've got no idea what we're looking at! Can you take a look?
+
 ### ![ab](https://github.com/user-attachments/assets/2ab2f2c6-2848-4763-879e-b8502a393ce8)
 ### ![ab](https://github.com/user-attachments/assets/9bc335a7-ca3f-4715-b597-0531b00803c0)
 ### ![ab](https://github.com/user-attachments/assets/542877e5-67af-4055-acce-d065c60f46c0)
