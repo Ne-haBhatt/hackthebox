@@ -6,7 +6,9 @@ An unknown and shady startup is selling its new product, called "POPO" - Paillie
 ### STEPS:
 1. Download the required files.
 2. Install the required module :
-   ''' pip install pycryptodome '''
-   ''' pip install pwntools '''
-3. Write the python code.
-4. Run the code and you will get the flag.
+   '''
+   pip install pycryptodome
+   '''
+> pip install pwntools 
+4. Write the python code.
+5. Run the code and you will get the flag.
