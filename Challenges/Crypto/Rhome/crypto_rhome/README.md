@@ -5,7 +5,7 @@ I received this lovely letter but the sender put a seal on it. She said that can
 
 ### STEPS:
 STEPS:
-Download the required files.
-Install the required modules using -
-Write the python code.
-Run the code and you will get the flag.
+1. Download the required files.
+2. Install the required modules using -
+3. Write the python code.
+4. Run the code and you will get the flag.
