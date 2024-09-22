@@ -2,13 +2,11 @@
 ## CHALLENGE DESCRIPTION:
 I've made the coolest calculator. It's pretty simple, I don't need to parse the input and take care of execution order, bash does it for me!I've also made sure to remove characters like $ or ` to not allow code execution, that will surely be enough.
 
-ZIP PASSWORD
+##### ZIP PASSWORD   :  hackthebox
 
-hackthebox
-
-SHA-256
-
+##### SHA-256
 6dc66caf33288a63d13379a5f8dc06de14300ec4f60da7f7700d02c9a201ae8e 
+
 
 ### STEPS:
 # ![image](https://github.com/user-attachments/assets/a87c11de-745f-4042-96ef-53bc08406e22)
