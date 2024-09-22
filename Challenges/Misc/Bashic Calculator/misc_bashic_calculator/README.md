@@ -4,8 +4,7 @@ I've made the coolest calculator. It's pretty simple, I don't need to parse the 
 
 ##### ZIP PASSWORD   :  hackthebox
 
-##### SHA-256
-6dc66caf33288a63d13379a5f8dc06de14300ec4f60da7f7700d02c9a201ae8e 
+##### SHA-256        :  6dc66caf33288a63d13379a5f8dc06de14300ec4f60da7f7700d02c9a201ae8e 
 
 
 ### STEPS:
