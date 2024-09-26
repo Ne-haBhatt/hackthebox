@@ -7,3 +7,4 @@ You are assigned the important mission of locating and identifying the infamous 
 
 ##### SHA-256      -  a242b8b215181bb495e44e575ea16b9564219ca2937dbe14003d740b41b7073c
 
+> pip install numpy matplotlib scikit-learn
