@@ -5,4 +5,4 @@
 
 
 > python3 ex.py -rhost "IP Address" --image poc.png --get-flag
-##### Run this command and you will get the flag.
+~ Run this command and you will get the flag.
