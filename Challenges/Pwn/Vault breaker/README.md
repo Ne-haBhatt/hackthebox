@@ -33,7 +33,7 @@ sh.sendlineafter(b'>', b'2')
 
 sh.interactive()
 ```
-
+> Below is the output of running ab.py script.
 # ![image](https://github.com/user-attachments/assets/ada66c6b-172a-4d73-972b-6d702fda0919)
 
 # ![image](https://github.com/user-attachments/assets/e3a89554-574f-4a17-b5cf-cd40f8613ba0)
