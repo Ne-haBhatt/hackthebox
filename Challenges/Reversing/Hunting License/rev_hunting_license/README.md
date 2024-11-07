@@ -2,7 +2,6 @@
 ## CHALLENGE DESCRIPTION
 STOP! Adventurer, have you got an up to date relic hunting license? If you don't, you'll need to take the exam again before you'll be allowed passage into the spacelanes!
 
-#### SHA-256 : 874dac64696963fbc49e83016dcca01c2c7b22c2664e01014c671ccc6df1203e 
 
 - nc 94.237.62.166 40585  
 
