@@ -29,18 +29,18 @@ nc 94.237.49.31 45464
 - majmeret@protonmail.com                                                                                                                  
                                                                                                                                            
 2. What is the password of the attacker used for the exfiltration process? (for example: password123)                                         
-> FBMeavdiaFZbWzpMqIVhJCGXZ5XXZI1qsU3EjhoKQw0rEoQqHyI                                                                                      
+- FBMeavdiaFZbWzpMqIVhJCGXZ5XXZI1qsU3EjhoKQw0rEoQqHyI                                                                                      
                                                                                                                                            
 3. What is the Cloud storage provider used by the attacker? (for example: cloud)                                                              
-> mega                                                                                                                                     
+- mega                                                                                                                                     
                                                                                                                                            
 4. What is the ID of the process used by the attackers to configure their tool? (for example: 1337)                                           
-> 3820                                                                                                                                     
+- 3820                                                                                                                                     
                                                                                                                                            
 5. What is the name of the folder the attacker exfiltrated; provide the full path. (for example: C:\Users\user\folder)                        
-> C:\Users\Wade\Desktop\Relic_location                                                                                                     
+- C:\Users\Wade\Desktop\Relic_location                                                                                                     
                                                                                                                                            
 6. What is the name of the folder the attacker exfiltrated the files to? (for example: exfil_folder)                                          
-> exfiltration                                                                                                                             
+- exfiltration                                                                                                                             
                                                                                                                                            
                      
