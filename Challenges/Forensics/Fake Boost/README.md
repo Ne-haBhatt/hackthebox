@@ -5,7 +5,7 @@ In the shadow of The Fray, a new test called &quot;Fake Boost&quot; whispers pro
 ## STEPS:
 1. Open the file on Wireshark. Goto File->Export Objects->HTTP
 2. Save the files on the system.
-![Image](https://github.com/user-attachments/assets/faf6cf37-53b8-4404-894c-6bf7d998cb86)
+# ![Image](https://github.com/user-attachments/assets/faf6cf37-53b8-4404-894c-6bf7d998cb86)
 
 3. Open the Linux terminal and write `pwsh` command.
 4. Then paste the content of the freediscordnitro file.
