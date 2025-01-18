@@ -12,7 +12,8 @@ In the shadow of The Fray, a new test called &quot;Fake Boost&quot; whispers pro
 5. Run ` echo "SFRCe2ZyMzNfTjE3cjBHM25fM3hwMDUzZCFf" | base64 -d `. We will get half of the flag.
 6. Run `echo "Y1dwaHJOVGs5d2dXWjkzdDE5amF5cW5sYUR1SWVGS2k=" | base64 -d`.
 7. Open Cyberchef and input the content of the `rj1893rj1joijdkajwda` file.
-![Image](https://github.com/user-attachments/assets/50d6bc9c-9c16-4a7b-ada9-cd98b0642244)
+# ![Image](https://github.com/user-attachments/assets/50d6bc9c-9c16-4a7b-ada9-cd98b0642244)
+
 8. Copy the content of the E-mail part.
 9. Run `echo "YjNXNHIzXzBmxxxxxxxxxx" |  base64 -d ` on the terminal.
 10. You will get the rest of the flag. 
