@@ -13,5 +13,9 @@ Dating and matching can be exciting especially during Valentine's, but it’s im
 
 3. Click on Matches.
 # ![Image](https://github.com/user-attachments/assets/3deedf1b-5a6c-4107-9dbb-11ceba73ddbc)
+
+4. After chatting with the person. you will not get any information. You can see something weird about the `rid`. 
 # ![Image](https://github.com/user-attachments/assets/2762c5b2-14e5-4eaa-861e-1a7009943d4a)
+
+5. Try changing the rid to 1,2. You will get an error. After writing the number 3 you can get the flag.
 # ![Image](https://github.com/user-attachments/assets/645f7261-25d2-49e4-915e-0839158c3ac5)
