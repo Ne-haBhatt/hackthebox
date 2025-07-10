@@ -32,3 +32,4 @@ def print_sudoku(board):
 board = read_sudoku()
 solve(board)
 print_sudoku(board)
+
